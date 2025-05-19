@@ -4,7 +4,6 @@
 🖊️Currently learning HTML,CSS,JavaScript,and React to build beautiful and functional websites.<br/>
 💎I worked as a 3DCG artist and had the opportunity to explore UI/UX design in some projects.Now I'm focusing on front-end development.<br/>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/naos-837761366) 
 
